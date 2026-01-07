@@ -1,0 +1,7 @@
+venv/
+temp_extract/
+.DS_Store
+*.log
+*.swp
+.idea/
+.vscode/
