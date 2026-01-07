@@ -1,0 +1,8 @@
+Origin: 🇹🇼TzTRight源🇹🇼
+Label: 🇹🇼TzTRight源🇹🇼
+Suite: stable
+Version: 1.1
+Codename: 天天话事人
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: "TzTRight所有的deb文件"

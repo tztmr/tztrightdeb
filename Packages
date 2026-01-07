@@ -1,0 +1,93 @@
+Package: app.xxtouch.ios
+Version: 1.3.8-20260107122500
+Architecture: iphoneos-arm64e
+Maintainer: XXTouch Team
+Installed-Size: 65792
+Depends: firmware (>= 9.0), mobilesubstrate (>=0.9.5000)
+Replaces: app.xxtouch.ios, com.1func.xxtouch.bigboss, com.1func.xxtouch, com.1func.xxtouch.ios, com.xxtouch.ios, ch.xxtou.ios
+Filename: ./debs/app.xxtouch.ios_1.3.8-20260107122500_iphoneos-arm64e.deb
+Size: 20297862
+MD5sum: 456478e6566fd8939b3aa1a5efc5a17d
+SHA1: 51afe6ba44193661a854a584c083e0fe3de89282
+SHA256: 5c391bc3f21edac3a285c883e01b455b83cf39f57dd3f807992f35521d17d9d0
+Section: Development
+Homepage: https://xxtouch.app
+Description: 可能是 iOS 平台最强的模拟触摸工具。
+Author: XXTouch Team
+Depiction: https://xxtouch.app
+Icon: file:///var/mobile/Media/1ferver/web/xxtouch.png
+Name: XXTouch
+Sponsor: XXTouch Team <https://xxtouch.app>
+
+Package: byg.iosios.net.afc2d-arm64
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: 搬运工
+Installed-Size: 342
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: cy+cpu.arm64, ldid, firmware (>= 11.0)
+Conflicts: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2, com.cannathea.afc2d-arm64
+Replaces: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Provides: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Filename: ./debs/byg.iosios.net.afc2d-arm64_1.2.0_iphoneos-arm64.deb
+Size: 17752
+MD5sum: cbf306218666bbbd68baaddf158b35c3
+SHA1: 283e74f024ddbc597d511a3b2839715b17a651dd
+SHA256: 3beb06f6bda119b3a001633deaf103b33e194bcad6f19acb34bb533cef2ac866
+Section: 系统增强
+Description: 允许设备通过USB访问完整的文件系统，对iOS11及更高版本的设备特别有用。神秘大佬修复支持Rootless。
+Author: Saurik, Cannathea
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: AppleFileConduit2电脑访问手机文件-Rootless
+Sponsor: 搬运工
+
+Package: com.razerzen.roothide.imco2.2.0
+Version: 2.2.0
+Architecture: iphoneos-arm64e
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/com.razerzen.roothide.imco2.2.0_2.2.0_iphoneos-arm64e.deb
+Size: 21958742
+MD5sum: 5fb3f36dfe02a122f2780735489d2b35
+SHA1: 9fed84c7111c471f7e38204007b4a55f77dcbc12
+SHA256: 9d25ea7637f0a868dbe2c9c4c5c79544115a1419871ff619435e31aa3c1a59a6
+Section: Razer-雷蛇
+Priority: optional
+Author: Razer
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: Razer雷蛇Zen版_2.2.0「隐根」
+
+Package: kr.xsf1re.vnodebypass
+Version: 0.4.2
+Architecture: iphoneos-arm64
+Maintainer: alias20
+Installed-Size: 532
+Depends: firmware (>= 15.0), firmware (<< 17.0), com.opa334.ccsupport, libkrw0-dopamine (>= 2.0)
+Filename: ./debs/kr.xsf1re.vnodebypass_0.4.2_iphoneos-arm64.deb
+Size: 72762
+MD5sum: 2d8bb61c5f09cd23ac2b9880ad4e638c
+SHA1: 02a4518b006e40cf6122368ff95ac14d66d72d23
+SHA256: b9a7e563abe9fcf32a8165dcf7a7b3e167683a86d7d6dd220da600940ffa2c1e
+Section: System
+Description: An expermental tool to hide jailbreak files for bypass detection. (Only supported iOS 15-16 with Dopamine2)
+Tag: role::hacker, compatible::ios15, compatible::ios16
+Author: XsF1re, ichitaso, level3tjg
+Depiction: https://cydia.ichitaso.com/depiction/vnodebypass.html
+Icon: https://raw.githubusercontent.com/ichitaso/vnodebypass_theme/main/layout/Library/Themes/vnodebypass.theme/Icon.png
+Name: vnodebypass
+
+Package: razerofficialb.roothide
+Version: 1.7.6-5
+Architecture: iphoneos-arm64e
+Maintainer: razer官方正式源
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/razerofficialb.roothide_1.7.6-5_iphoneos-arm64e.deb
+Size: 21303164
+MD5sum: 9d125e81f74626bbfd2d4be72af1aca7
+SHA1: 7a8b31435af04d7390a6dc8e072492583ddaa8dd
+SHA256: 2b07fd415d73d7bacbd349f8281163ec1bec5cb6d02dd628fde44964eec0d704
+Section: Razer-雷蛇
+Priority: optional
+Author: RazerOfficial
+Icon: icon.png
+Name: 雷蛇176-无根-[rootHide无根]
+
