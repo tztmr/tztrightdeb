@@ -152,6 +152,57 @@ Author: Razer
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: Razer雷蛇Zen版_2.2.0「隐根」
 
+Package: com.sky.ykpro
+Version: 2.8.0
+Architecture: iphoneos-arm64
+Maintainer: YKP
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/com.sky.ykpro_2.8.0_iphoneos-arm64.deb
+Size: 8543766
+MD5sum: bb15e0abccafd1eb6ca81f10e875ccca
+SHA1: b70610dd8ee3c00d6d0156d527fb1e31e4f67fbd
+SHA256: bcdbd60f63f134f6d420fa32d425bc505bd6d1a787418384610f4a9c580a1181
+Section: Packaging
+Description: 远程控制手机
+Author: YKP
+Depiction: 远程控制手机
+Icon: file:///var/jb/Applications/YKApp.app/AppIcon60x60@2x.png
+Name: 远控Pro
+
+Package: com.sky.ykpro
+Version: 2.8.0
+Architecture: iphoneos-arm64e
+Maintainer: YKP
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/com.sky.ykpro_2.8.0_iphoneos-arm64e.deb
+Size: 8541746
+MD5sum: 65769ada10060dea76c23f34c41c1671
+SHA1: 0ce3f1099b16175d22f8a18895b989ccb0fa53e0
+SHA256: b911a685c47c5e30d8e9d01e205245287635bcc97e5de422ec1988f8fb21358d
+Section: Packaging
+Description: 远程控制手机
+Author: YKP
+Depiction: 远程控制手机
+Icon: file:///Applications/YKApp.app/AppIcon60x60@2x.png
+Name: 远控Pro
+
+Package: com.sky.ykpro
+Version: 2.8.0
+Architecture: iphoneos-arm
+Maintainer: YKP
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./debs/com.sky.ykpro_2.8.0_iphoneos-arm.deb
+Size: 8502096
+MD5sum: 9705de831a7f2b6c3c23b5f64f5748de
+SHA1: b3b5c54f740b03a7262edb831d0bcd0cc81d400e
+SHA256: 5a25e1a9c8aa5c9168d9477339ca58085b1d0597370ab2390f862729ea61f2b8
+Section: Packaging
+Description: 远程控制手机
+Author: YKP
+Depiction: 远程控制手机
+Icon: file:///Applications/YKApp.app/AppIcon60x60@2x.png
+Name: 远控Pro
+
 Package: com.yourcompany.masktest
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
