@@ -1,3 +1,19 @@
+Package: RazerOfficialb
+Version: 1.7.6-5
+Architecture: iphoneos-arm
+Maintainer: razer官方正式源
+Depends: firmware (>= 8.0), mobilesubstrate
+Filename: ./debs/RazerOfficialb_1.7.6-5_iphoneos-arm.deb
+Size: 21299502
+MD5sum: 686808c5d6dc5482cce6c04a347ce7cc
+SHA1: 7a51a25f518098f6a45876106e0d41f1895507c8
+SHA256: 1a654a4623d12825fb86defa86636a5e35415d1fbcaa847e23129784e0e61d84
+Section: Razer-雷蛇
+Priority: optional
+Author: RazerOfficial
+Icon: icon.png
+Name: razer-雷蛇176
+
 Package: app.xxtouch.ios
 Version: 1.3.8-20260107122500
 Architecture: iphoneos-arm64e
@@ -147,10 +163,47 @@ Size: 46280
 MD5sum: e6faa175181d568aee22700654962a2d
 SHA1: 3997dd303d8e998d8bbe0763d143d445ef909627
 SHA256: 98d74d267615da3c489d0079a94581a228749c61bea3c4cb8595976cb4ee913a
-Section: 【IR|Mask】
+Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: -
 Name: masktest
+
+Package: com.zorro.appsyncunified10
+Version: 84.0
+Architecture: iphoneos-arm
+Maintainer: WZteam <admin@abcydia.com>
+Installed-Size: 496
+Depends: firmware (>= 5.0), firmware (<= 13.7), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
+Replaces: us.hackulo.appsync50
+Provides: appsync
+Filename: ./debs/com.zorro.appsyncunified10_84.0_iphoneos-arm.deb
+Size: 42204
+MD5sum: 8269301cc8ba34a4fdc34934bc291cef
+SHA1: 4a8b986694c8d1fd4b40f96dfefef3043718110f
+SHA256: 2263b8549269ac7e56a12c2b659a54fcefd45853125c0b72b26e9adff7117345
+Section: 常用插件
+Author: Linus Yang, Karen
+Name: AppSync Unified 关闭签名
+Sponsor: ABCydia <http://www.abcydia.com>
+
+Package: ioscj.mask
+Version: 4.3.2
+Architecture: iphoneos-arm
+Maintainer: 布斯中文源™ <478066693@qq.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/ioscj.mask_4.3.2_iphoneos-arm.deb
+Size: 4339490
+MD5sum: 25f210e2feeaa8944b2c4a6763d7c5f4
+SHA1: 0220f896ed93b1887c995cef24592791bfb52c9b
+SHA256: d6fa9530b4bc80b61ddced053408e445f545664946232ff5ab0edd327c81e2d3
+Section: MASK|IR|LA|PB屏蔽越狱[通用]
+Priority: optional
+Description: iOS12.5-13.7用Unc0ver越狱，iOS14.0-14.5用Checkra1n越狱
+Author: mask
+Icon: /Applications/Mask.app/AppIcon.png
+Name: Mask面具_4.3.2
+Sponsor: 布斯中文源™ <478066693@qq.com>
 
 Package: kr.xsf1re.vnodebypass
 Version: 0.4.2
@@ -202,4 +255,41 @@ Priority: optional
 Author: RazerOfficial
 Icon: icon.png
 Name: 雷蛇176-无根-[rootHide无根]
+
+Package: razerofficialb.rootless
+Version: 1.7.6
+Architecture: iphoneos-arm64
+Maintainer: razer官方正式源
+Depends: firmware (>= 8.0)
+Filename: ./debs/razerofficialb.rootless_1.7.6_iphoneos-arm64.deb
+Size: 21303138
+MD5sum: 1ba94395a15b31387b2d5dffd53626ce
+SHA1: 7ff618faa781b9071dc453a52379cb39fad512eb
+SHA256: c9c812ff8b21d7af107303061a19b2eba610738d21f9a8f61b2c41f4fca1baf3
+Section: Razer-雷蛇
+Priority: optional
+Author: RazerOfficial
+Icon: icon.png
+Name: Razer雷蛇176-无根
+
+Package: zorro.afc2forios14
+Version: 1.3.3
+Architecture: iphoneos-arm
+Installed-Size: 686
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: cy+cpu.arm64, mobilesubstrate, ldid
+Conflicts: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Replaces: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Provides: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Filename: ./debs/zorro.afc2forios14_1.3.3_iphoneos-arm.deb
+Size: 14498
+MD5sum: ed4e3195abe0a15a8f5f25755889abb8
+SHA1: bbd23b6a6883205f25311f324061bc607744d373
+SHA256: f16afd77f24e2405b1758301c555d2276999182bb09354d554382aa53bf78148
+Section: 常用插件
+Description: 用于开启爱思助手文件系统（越狱）目录
+Tag: purpose::daemon
+Author: Saurik, Cannathea
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: AFC2 iOS11~14 系统路径
 
