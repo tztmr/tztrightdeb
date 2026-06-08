@@ -4,11 +4,11 @@ Architecture: iphoneos-arm
 Maintainer: razer官方正式源
 Depends: firmware (>= 8.0), mobilesubstrate
 Filename: ./debs/RazerOfficialb_1.7.6-5_iphoneos-arm.deb
-Size: 21299502
-MD5sum: 686808c5d6dc5482cce6c04a347ce7cc
-SHA1: 7a51a25f518098f6a45876106e0d41f1895507c8
-SHA256: 1a654a4623d12825fb86defa86636a5e35415d1fbcaa847e23129784e0e61d84
-Section: Razer-雷蛇
+Size: 21299526
+MD5sum: fce093719d8c3521cd0272c1b1ed38a6
+SHA1: 1dc865af957ad0594d0206615ace4879a7802d7c
+SHA256: 4c6baeb793509d3958a1b43c6c4374555d1eb9f14c5b6b2d814ada6f2212230b
+Section: 雷蛇专区
 Priority: optional
 Author: RazerOfficial
 Icon: icon.png
@@ -22,11 +22,11 @@ Installed-Size: 65792
 Depends: firmware (>= 9.0), mobilesubstrate (>=0.9.5000)
 Replaces: app.xxtouch.ios, com.1func.xxtouch.bigboss, com.1func.xxtouch, com.1func.xxtouch.ios, com.xxtouch.ios, ch.xxtou.ios
 Filename: ./debs/app.xxtouch.ios_1.3.8-20260107122500_iphoneos-arm64e.deb
-Size: 20297862
-MD5sum: 456478e6566fd8939b3aa1a5efc5a17d
-SHA1: 51afe6ba44193661a854a584c083e0fe3de89282
-SHA256: 5c391bc3f21edac3a285c883e01b455b83cf39f57dd3f807992f35521d17d9d0
-Section: Development
+Size: 20298240
+MD5sum: ea24d41b1005d21105d0a4178c7ef00f
+SHA1: bc440dc9ee70b3009be953a69e58fb3cf2e1ead1
+SHA256: e1ad6a069b88a38bed59475bc644604b8f6d6e227891d207e52a7c024b1f053a
+Section: 自动化
 Homepage: https://xxtouch.app
 Description: 可能是 iOS 平台最强的模拟触摸工具。
 Author: XXTouch Team
@@ -43,11 +43,11 @@ Installed-Size: 88776
 Depends: firmware (>= 9.0), mobilesubstrate (>=0.9.5000)
 Replaces: app.xxtouch.ios, com.1func.xxtouch.bigboss, com.1func.xxtouch, com.1func.xxtouch.ios, com.xxtouch.ios, ch.xxtou.ios
 Filename: ./debs/app.xxtouch.ios_1.3.8-20260603230603_iphoneos-arm64e.deb
-Size: 25548630
-MD5sum: 78ec49f0f676075643ccbe9c1d28b8b3
-SHA1: eaaa1e2bb7c63cf73f1e97113a7ae63a4b6817aa
-SHA256: 706e53c3b03fbcc91ad87b0d201fca99dde7cfdce3719eaf103cb3372cea82d3
-Section: Development
+Size: 25549016
+MD5sum: cf81ada290294f3009f6fc72a7127ea5
+SHA1: 2bc39177f0b3724e0b7443b1f7080014719c7da2
+SHA256: fcfbbcc3ee807d913b7cdb7af85639f46fb4fa771400d5b85a754c1fd3d986f3
+Section: 自动化
 Homepage: https://xxtouch.app
 Description: 可能是 iOS 平台最强的模拟触摸工具。
 Author: XXTouch Team
@@ -64,11 +64,11 @@ Installed-Size: 88760
 Depends: firmware (>= 9.0), mobilesubstrate (>=0.9.5000)
 Replaces: app.xxtouch.ios, com.1func.xxtouch.bigboss, com.1func.xxtouch, com.1func.xxtouch.ios, com.xxtouch.ios, ch.xxtou.ios
 Filename: ./debs/app.xxtouch.ios_1.3.8-20260603230603_iphoneos-arm.deb
-Size: 25546660
-MD5sum: 49fde53fa5e4e1c78b15bfa9e34686bb
-SHA1: 7167ec6dcb0a0f897edfcfe2906f60633be01431
-SHA256: 0231dc3b60be33223a3360fadeb9bddf14aed9b38d6267c990f89067e8d5e39d
-Section: Development
+Size: 25547048
+MD5sum: 7fe877f4a01098afa7c9d2a320800e45
+SHA1: e14a9fd50889e3e34b60d42b31aae7e822023bc5
+SHA256: 740dbbecaf5db648ef29eb2dd76cf3343b94ba593636443cf92cc58fe50e64db
+Section: 自动化
 Homepage: https://xxtouch.app
 Description: 可能是 iOS 平台最强的模拟触摸工具。
 Author: XXTouch Team
@@ -85,11 +85,11 @@ Installed-Size: 88760
 Depends: firmware (>= 9.0), mobilesubstrate (>=0.9.5000)
 Replaces: app.xxtouch.ios, com.1func.xxtouch.bigboss, com.1func.xxtouch, com.1func.xxtouch.ios, com.xxtouch.ios, ch.xxtou.ios
 Filename: ./debs/app.xxtouch.ios_1.3.8-20260603230603_iphoneos-arm64.deb
-Size: 25545252
-MD5sum: 3c9f36e37696662d746225e7dac6c6cc
-SHA1: 7d5045754cfc67f1ec6bf361cf2497a7912906c7
-SHA256: dd85d2c15f2a9efccdac772a7ec5ffb78777b8def5c607ca2672a12f403c1730
-Section: Development
+Size: 25545626
+MD5sum: 9a5b918dee797b31509cd3a6a06262dd
+SHA1: 6c27bb231997293c0a7f431a75804965a4a3bdd7
+SHA256: d41966da48e79fd7614dc17aefdbb699801ee45f32c5de9b495247c7357b012f
+Section: 自动化
 Homepage: https://xxtouch.app
 Description: 可能是 iOS 平台最强的模拟触摸工具。
 Author: XXTouch Team
@@ -109,11 +109,11 @@ Conflicts: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios1
 Replaces: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
 Provides: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
 Filename: ./debs/byg.iosios.net.afc2d-arm64_1.2.0_iphoneos-arm64.deb
-Size: 17752
-MD5sum: cbf306218666bbbd68baaddf158b35c3
-SHA1: 283e74f024ddbc597d511a3b2839715b17a651dd
-SHA256: 3beb06f6bda119b3a001633deaf103b33e194bcad6f19acb34bb533cef2ac866
-Section: 系统增强
+Size: 17904
+MD5sum: 7ec1a26ca17c44fa8f6e0441ae6b1f24
+SHA1: b6abe2ac859bad82d93b421f6eae30f391c53106
+SHA256: a2f8b4d8f1ea48fdfe47684d256b6fbe3a5f916dbc986690b0f163e4b105a9eb
+Section: 系统工具
 Description: 允许设备通过USB访问完整的文件系统，对iOS11及更高版本的设备特别有用。神秘大佬修复支持Rootless。
 Author: Saurik, Cannathea
 Icon: https://chinesebuilding.club/pic/cydia.png
@@ -128,11 +128,11 @@ Installed-Size: 2184
 Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
 Conflicts: com.opa334.crane, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
 Filename: ./debs/com.opa334.cranelite_1.3.16-4_iphoneos-arm64.deb
-Size: 336298
-MD5sum: 0427d7d40841fd8d839bef1f73623cc1
-SHA1: dfd00220db9ea5de110c6ab85972eea609c13bb1
-SHA256: 63d39820d354cf0939e506c4e5c3c001bc09982e3887f3c81eadf182806b8027
-Section: Tweaks
+Size: 336590
+MD5sum: 53210b553fb353716f1aa977509c483e
+SHA1: f9dfced5f3b8483108398f1dcae2968479d8359d
+SHA256: 09b141125b6c4a05ce134f72e011a55b9a0eaefe694d05ce956c07c49cbcc913
+Section: 常用插件
 Description: Multiple containers for one application!
 Author: opa334
 Name: Crane Lite
@@ -142,11 +142,11 @@ Version: 2.2.0
 Architecture: iphoneos-arm64e
 Depends: firmware (>= 15.0), mobilesubstrate
 Filename: ./debs/com.razerzen.roothide.imco2.2.0_2.2.0_iphoneos-arm64e.deb
-Size: 21958742
-MD5sum: 5fb3f36dfe02a122f2780735489d2b35
-SHA1: 9fed84c7111c471f7e38204007b4a55f77dcbc12
-SHA256: 9d25ea7637f0a868dbe2c9c4c5c79544115a1419871ff619435e31aa3c1a59a6
-Section: Razer雷蛇Zen版本-推荐
+Size: 21958752
+MD5sum: a2127cfce1210b3799a8dfb5cf56f6cf
+SHA1: 118e20b007effc999a9e536895ae5eee5b84dcf0
+SHA256: 3c975f7bf11605e5f54731c736c9b9e03ba8d8321210c315df5405e6593ce8f1
+Section: 雷蛇专区
 Priority: optional
 Author: Razer
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
@@ -158,11 +158,11 @@ Architecture: iphoneos-arm64
 Maintainer: YKP
 Depends: firmware (>= 15.0), mobilesubstrate
 Filename: ./debs/com.sky.ykpro_2.8.0_iphoneos-arm64.deb
-Size: 8543766
-MD5sum: bb15e0abccafd1eb6ca81f10e875ccca
-SHA1: b70610dd8ee3c00d6d0156d527fb1e31e4f67fbd
-SHA256: bcdbd60f63f134f6d420fa32d425bc505bd6d1a787418384610f4a9c580a1181
-Section: Packaging
+Size: 8544080
+MD5sum: efd13d2d38cad8fea84414147b067231
+SHA1: 1b4630cf5beae6d7fa5753b2ffd567361bfffe19
+SHA256: 9f66dca3e200c157e1881dd96a13b0418c53e823c9bc531bbc5364306edfdbe2
+Section: 自动化
 Description: 远程控制手机
 Author: YKP
 Depiction: 远程控制手机
@@ -175,11 +175,11 @@ Architecture: iphoneos-arm64e
 Maintainer: YKP
 Depends: firmware (>= 15.0), mobilesubstrate
 Filename: ./debs/com.sky.ykpro_2.8.0_iphoneos-arm64e.deb
-Size: 8541746
-MD5sum: 65769ada10060dea76c23f34c41c1671
-SHA1: 0ce3f1099b16175d22f8a18895b989ccb0fa53e0
-SHA256: b911a685c47c5e30d8e9d01e205245287635bcc97e5de422ec1988f8fb21358d
-Section: Packaging
+Size: 8542060
+MD5sum: b8d162f86c0988d24340af5764c81a0f
+SHA1: 418fefcfdac063dec77dcc337137adf834077a27
+SHA256: 214fc50db4c140c98248a59d89518bb683f6082bbed4bcf4ec0a34a873e9724b
+Section: 自动化
 Description: 远程控制手机
 Author: YKP
 Depiction: 远程控制手机
@@ -192,11 +192,11 @@ Architecture: iphoneos-arm
 Maintainer: YKP
 Depends: firmware (>= 13.0), mobilesubstrate
 Filename: ./debs/com.sky.ykpro_2.8.0_iphoneos-arm.deb
-Size: 8502096
-MD5sum: 9705de831a7f2b6c3c23b5f64f5748de
-SHA1: b3b5c54f740b03a7262edb831d0bcd0cc81d400e
-SHA256: 5a25e1a9c8aa5c9168d9477339ca58085b1d0597370ab2390f862729ea61f2b8
-Section: Packaging
+Size: 8502412
+MD5sum: 170f29eb793b202a17c359b143317717
+SHA1: 6f558d0954f9bb18025dd39dc2188c34fe5da24b
+SHA256: 9e7b50c36c896580b3bab947ecd83ea7c2fecbdd3946489d633d765167f7c95b
+Section: 自动化
 Description: 远程控制手机
 Author: YKP
 Depiction: 远程控制手机
@@ -210,11 +210,11 @@ Maintainer: -
 Installed-Size: 308
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/maskpojie.deb
-Size: 46280
-MD5sum: e6faa175181d568aee22700654962a2d
-SHA1: 3997dd303d8e998d8bbe0763d143d445ef909627
-SHA256: 98d74d267615da3c489d0079a94581a228749c61bea3c4cb8595976cb4ee913a
-Section: Tweaks
+Size: 46488
+MD5sum: 966c093e0d70ba205ace78386dd233b8
+SHA1: 2caec7593fb7d0bc7f0175bdec56b69cba0e4c5e
+SHA256: 0356366a4bcde8e6199f6a9f4c6ae4b065de421abc5d0a385321d6b41457d904
+Section: 屏蔽越狱
 Description: An awesome MobileSubstrate tweak!
 Author: -
 Name: masktest
@@ -229,11 +229,11 @@ Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.ap
 Replaces: us.hackulo.appsync50
 Provides: appsync
 Filename: ./debs/com.zorro.appsyncunified10_84.0_iphoneos-arm.deb
-Size: 42204
-MD5sum: 8269301cc8ba34a4fdc34934bc291cef
-SHA1: 4a8b986694c8d1fd4b40f96dfefef3043718110f
-SHA256: 2263b8549269ac7e56a12c2b659a54fcefd45853125c0b72b26e9adff7117345
-Section: 常用插件
+Size: 42646
+MD5sum: 123dcd1928f9d06f3c101513aa716682
+SHA1: 9502a2e568a6f1ae10e0ae4e8955a3a718148eef
+SHA256: 7fa9e869c2ee6b14ae52cc462257139af42dce0a44d81253f7b0bc20bdd68ff9
+Section: 系统工具
 Author: Linus Yang, Karen
 Name: AppSync Unified 关闭签名
 Sponsor: ABCydia <http://www.abcydia.com>
@@ -244,11 +244,11 @@ Architecture: iphoneos-arm
 Maintainer: 布斯中文源™ <478066693@qq.com>
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/ioscj.mask_4.3.2_iphoneos-arm.deb
-Size: 4339490
-MD5sum: 25f210e2feeaa8944b2c4a6763d7c5f4
-SHA1: 0220f896ed93b1887c995cef24592791bfb52c9b
-SHA256: d6fa9530b4bc80b61ddced053408e445f545664946232ff5ab0edd327c81e2d3
-Section: MASK|IR|LA|PB屏蔽越狱[通用]
+Size: 4339714
+MD5sum: f543d77d6c53d4bcaa321f8bb5f6d2a5
+SHA1: f1e14673504f64f3aa68ca563b1ed213c6cae40f
+SHA256: de90dbe16a2c7f424e87307ccdc824717ee31a7a98ee3a12072a6a679f5168b2
+Section: 屏蔽越狱
 Priority: optional
 Description: iOS12.5-13.7用Unc0ver越狱，iOS14.0-14.5用Checkra1n越狱
 Author: mask
@@ -263,11 +263,11 @@ Maintainer: alias20
 Installed-Size: 532
 Depends: firmware (>= 15.0), firmware (<< 17.0), com.opa334.ccsupport, libkrw0-dopamine (>= 2.0)
 Filename: ./debs/kr.xsf1re.vnodebypass_0.4.2_iphoneos-arm64.deb
-Size: 72762
-MD5sum: 2d8bb61c5f09cd23ac2b9880ad4e638c
-SHA1: 02a4518b006e40cf6122368ff95ac14d66d72d23
-SHA256: b9a7e563abe9fcf32a8165dcf7a7b3e167683a86d7d6dd220da600940ffa2c1e
-Section: System
+Size: 73320
+MD5sum: ddd17819ce27fcf7d175c38d0e2a63d7
+SHA1: 15d0434eeb76a6f4340b00476831d286b7a4d4b3
+SHA256: 140b327b268df50e53a1fbb7435a824aebfd242b345829640816996136daeb11
+Section: 屏蔽越狱
 Description: An expermental tool to hide jailbreak files for bypass detection. (Only supported iOS 15-16 with Dopamine2)
 Tag: role::hacker, compatible::ios15, compatible::ios16
 Author: XsF1re, ichitaso, level3tjg
@@ -281,11 +281,11 @@ Architecture: iphoneos-arm
 Maintainer: mxsf
 Installed-Size: 8392
 Filename: ./debs/mask-fixed.deb
-Size: 4025414
-MD5sum: 3b61bb575a5562b5760ee94891cd33d0
-SHA1: 1fbde7c835925386e303ca43573659812113c591
-SHA256: 1eb248fb76d7abf5c5da8831df2926996905e40cff10e0c62f1591398585ab85
-Section: 【IR|Mask】
+Size: 4025636
+MD5sum: 026e697647df687759122cec8d286481
+SHA1: 1fbf2e2a2bcb25d709db0b4471358671e5511b32
+SHA256: f0dc5ee4426f6e32ac7df69439889e1e624d297de417a7ba093eba23d51a9fbe
+Section: 屏蔽越狱
 Author: mxsf
 Icon: file:///Applications/Cydia.app/Sections/Utilities.png
 Name: Mask（面具）2.11
@@ -297,11 +297,11 @@ Architecture: iphoneos-arm64e
 Maintainer: razer官方正式源
 Depends: firmware (>= 15.0), mobilesubstrate
 Filename: ./debs/razerofficialb.roothide_1.7.6-5_iphoneos-arm64e.deb
-Size: 21303164
-MD5sum: 9d125e81f74626bbfd2d4be72af1aca7
-SHA1: 7a8b31435af04d7390a6dc8e072492583ddaa8dd
-SHA256: 2b07fd415d73d7bacbd349f8281163ec1bec5cb6d02dd628fde44964eec0d704
-Section: Razer-雷蛇
+Size: 21303174
+MD5sum: 49009cba48de030cf32b47697156d350
+SHA1: 16e0264105d7c699d399418e3e3e74c58221adc9
+SHA256: 21de0cf5f866b2cc8af9ab20ccf114df702dc686d9df0c84acb7d24260f44f61
+Section: 雷蛇专区
 Priority: optional
 Author: RazerOfficial
 Icon: icon.png
@@ -313,11 +313,11 @@ Architecture: iphoneos-arm64
 Maintainer: razer官方正式源
 Depends: firmware (>= 8.0)
 Filename: ./debs/razerofficialb.rootless_1.7.6_iphoneos-arm64.deb
-Size: 21303138
-MD5sum: 1ba94395a15b31387b2d5dffd53626ce
-SHA1: 7ff618faa781b9071dc453a52379cb39fad512eb
-SHA256: c9c812ff8b21d7af107303061a19b2eba610738d21f9a8f61b2c41f4fca1baf3
-Section: Razer-雷蛇
+Size: 21303444
+MD5sum: 71b34d621603c8990ad9e870975100f9
+SHA1: 3b6e39ea4523dbafb4c0dbbd3acd28f06fc0ddb5
+SHA256: 83fccb48a1e2c1d97332775c9cea801df56e02dea08f2fc2f89d7240f92f989e
+Section: 雷蛇专区
 Priority: optional
 Author: RazerOfficial
 Icon: icon.png
@@ -333,11 +333,11 @@ Conflicts: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios1
 Replaces: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
 Provides: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
 Filename: ./debs/zorro.afc2forios14_1.3.3_iphoneos-arm.deb
-Size: 14498
-MD5sum: ed4e3195abe0a15a8f5f25755889abb8
-SHA1: bbd23b6a6883205f25311f324061bc607744d373
-SHA256: f16afd77f24e2405b1758301c555d2276999182bb09354d554382aa53bf78148
-Section: 常用插件
+Size: 14828
+MD5sum: e1e464e427d12c357f101c1354837d26
+SHA1: 653261dba157fd2dfa2e638cd74336d4a877e541
+SHA256: 060ccbb38cc68e0781ce3efaa8d10bdfe5b2afe798a0e54c3792d61dea919cb3
+Section: 系统工具
 Description: 用于开启爱思助手文件系统（越狱）目录
 Tag: purpose::daemon
 Author: Saurik, Cannathea
